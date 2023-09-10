@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1694382395 source:c:\users\vladyslav\onedrive\Робочий стіл\c\romannumerals\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
